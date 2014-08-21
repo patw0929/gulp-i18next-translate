@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/patw0929/gulp-i18next-translate/issues"
   },
-  "homepage": "https://github.com/patw0929/gulp-i18next-translate"
+  "homepage": "https://github.com/patw0929/gulp-i18next-translate",
+  "dependencies": {
+    "through2": "0.x",
+    "gulp-util": "2.x",
+    "vinyl": "0.x",
+    "async": "~0.2.10",
+    "glob": "~3.2.9"
+  },
 }
