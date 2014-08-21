@@ -1,0 +1,25 @@
+{
+  "name": "gulp-i18next-translate",
+  "version": "0.0.1",
+  "description": "Translate the strings parsed from i18next-parser",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:patw0929/gulp-i18next-translate.git"
+  },
+  "keywords": [
+    "gulp",
+    "i18n",
+    "translate",
+    "i18next-parser",
+    "gulpplugin"
+  ],
+  "author": "patw (Patrick Wang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patw0929/gulp-i18next-translate/issues"
+  },
+  "homepage": "https://github.com/patw0929/gulp-i18next-translate"
+}
