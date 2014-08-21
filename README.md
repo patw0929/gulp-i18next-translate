@@ -1,5 +1,12 @@
 # [gulp](http://gulpjs.com/)-i18next-translate
 
+## Inspired From
+
+[gulp-translation](https://github.com/evolvoc/gulp-translation)
+
+The main source code is inspired from this project. Big thanks to them.
+
+
 ## Installation
 
 ```
